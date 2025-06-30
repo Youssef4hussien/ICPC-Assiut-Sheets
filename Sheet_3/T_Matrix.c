@@ -26,7 +26,8 @@ int main(void)
     PD += mtx[i];
 
   /*
-    a for loop is used to calculate the sum of the elements on the primary diagonal of the matrx
+    a for loop is used to calculate the sum of the elements on the secondary
+    diagonal of the matrx
 
     * * * i
     * * i *
